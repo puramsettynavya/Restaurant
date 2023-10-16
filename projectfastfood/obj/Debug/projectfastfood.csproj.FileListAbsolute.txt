@@ -1,0 +1,15 @@
+C:\Users\navya\source\repos\projectfastfood\bin\Debug\projectfastfood.exe.config
+C:\Users\navya\source\repos\projectfastfood\bin\Debug\projectfastfood.exe
+C:\Users\navya\source\repos\projectfastfood\bin\Debug\projectfastfood.pdb
+C:\Users\navya\source\repos\projectfastfood\obj\Debug\projectfastfood.csproj.AssemblyReference.cache
+C:\Users\navya\source\repos\projectfastfood\obj\Debug\projectfastfood.Form1.resources
+C:\Users\navya\source\repos\projectfastfood\obj\Debug\projectfastfood.Properties.Resources.resources
+C:\Users\navya\source\repos\projectfastfood\obj\Debug\projectfastfood.csproj.GenerateResource.cache
+C:\Users\navya\source\repos\projectfastfood\obj\Debug\projectfastfood.csproj.CoreCompileInputs.cache
+C:\Users\navya\source\repos\projectfastfood\obj\Debug\projectfastfood.exe
+C:\Users\navya\source\repos\projectfastfood\obj\Debug\projectfastfood.pdb
+C:\Users\navya\source\repos\projectfastfood\obj\Debug\projectfastfood.login.resources
+C:\Users\navya\source\repos\projectfastfood\obj\Debug\projectfastfood.items.resources
+C:\Users\navya\source\repos\projectfastfood\obj\Debug\projectfastfood.ViewOrders.resources
+C:\Users\navya\source\repos\projectfastfood\bin\Debug\CafeVbDb.mdf
+C:\Users\navya\source\repos\projectfastfood\bin\Debug\CafeVbDb_log.ldf
